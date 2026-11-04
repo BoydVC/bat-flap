@@ -1,6 +1,6 @@
 # Bat Flap 🦇
 
-A one-tap Halloween arcade game for Char & Vic. Tap / click / Space (or ↑ / W) to flap a little bat through the gaps between gnarled trees and jack-o'-lantern stacks under a big moon.
+A one-tap Halloween arcade game for Alex & Sam. Tap / click / Space (or ↑ / W) to flap a little bat through the gaps between gnarled trees and jack-o'-lantern stacks under a big moon.
 
 - **Scoring:** +1 per obstacle passed, +3 per candy corn grabbed. Best score is saved on the device (localStorage).
 - **Difficulty:** it ramps up slowly over the first ~40 points (faster scrolling, smaller gaps, more vertical wobble).
